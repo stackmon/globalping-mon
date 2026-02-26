@@ -201,10 +201,10 @@ After execution, API rate limits are printed:
 
 # Use Cases
 
--   Multi-country latency monitoring\
--   ISP/ASN path validation\
--   Routing comparison between providers\
--   Prometheus-based SLO monitoring\
+-   Multi-country latency monitoring
+-   ISP/ASN path validation
+-   Routing comparison between providers
+-   Prometheus-based SLO monitoring
 -   External uptime and performance checks
 
 ------------------------------------------------------------------------
