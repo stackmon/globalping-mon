@@ -4,11 +4,11 @@ Network measurement automation built on top of the Globalping API.
 
 This script performs:
 
--   Traceroute measurements\
--   HTTP measurements\
--   Country-level summaries\
--   ASN-based follow-up measurements (derived from traceroute results)\
--   Export to JSON, CSV, Prometheus, or StatsD\
+-   Traceroute measurements
+-   HTTP measurements
+-   Country-level summaries
+-   ASN-based follow-up measurements (derived from traceroute results)
+-   Export to JSON, CSV, Prometheus, or StatsD
 -   Optional Prometheus HTTP exporter mode
 
 ------------------------------------------------------------------------
