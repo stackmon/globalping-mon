@@ -1,6 +1,6 @@
 # Globaping IO Measurement Script
 
-Network measurement automation built on top of the Globalping API.
+Network measurement automation built on top of the Globalping API (https://globalping.io/).
 
 This script performs:
 
